@@ -86,3 +86,15 @@ In the news: NRK Sápmi: [Dahkujierbmi sáhttá ovddidit sámegiela](https://www
 
 We have published two statements for the implementation of the EU AI Act (from [Sámi allaskuvla](https://www.regjeringen.no/no/dokumenter/3112327/id3112327/?uid=63d2f755-293e-44c7-a1b4-eb5915a19d2d) and [UiT Norges arktiske universitet](https://www.regjeringen.no/no/dokumenter/3112327/id3112327/?uid=7e15f708-dcf4-44a5-a39c-615867f892e3), and we are organizing a side-event at the 25th Permanent Forum on Indigenous Issues (UNPFII) on [AI opportunities for Indigenous health: realizing benefits and addressing risks ]().
 
+## Sámi AI Lab members:
+1. Professor Lars Ailo Bongo (PI; Sámi allaskuvla and UiT)
+2. Assistant Professor Samuel Valkeapää (Creative industries lead; Sámi allaskuvla)
+4. Associate Professor Kajsa Møllersen (Language and education lead; Sámi allaskuvla)
+5. Anne-Torill Nordsletta (researcher)
+6. Dr. Nikita Shvestov (Health equity; postdoc, UiT)
+7. Ernie Roby-Tomić (Creative industries; PhD student, UiT)
+8. Maarit Magga (Language and education; Developer, Sámi allaskuvla)
+9. Ragnhild Abel Grape (Language Technology Evaluation; Master student, UiT)
+10. Kevin Mathias Bergan (Creative industries; Master student, UiT)
+
+
