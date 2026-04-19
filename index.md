@@ -18,6 +18,8 @@ The widespread integration of new AI apps and services into critical public sect
 ### Our mission
 The Sámi AI Lab at the Sámi University of Applied Sciences aims to establish Sámi self-determination in the digital age. We develop and deploy culturally-adapted AI apps and services, not for AI's sake, but as essential tools to solve the urgent inequities in health services, language preservation, and cultural innovation. We ensure the necessary Indigenous data and expertise are built into the core of these applications, making the Sámi model a global standard for ethical, applied Indigenous AI. 
 
+![Sámi AI Lab activities and collaborations](/assets/images/sami-ai-lab-overview.png "Sámi AI Lab overview figure")
+
 ## Our core focus is delivering AI solutions to secure health equity and develop Sámi culture and languages
 
 ### Health Equity
