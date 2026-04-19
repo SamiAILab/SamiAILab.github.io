@@ -104,6 +104,11 @@ Sámi AI Lab members:
 10. Kevin Mathias Bergan (Creative industries; Master student, UiT)
 
 Collaborators:
+1. Brita Elvevåg (UiT)
+2. Benjamin Ricaud (UiT)
+3. Sandra Just (UiT)
+4. Ánde Somby (UiT)
+5. Outi Laiti (University of Helsinki)
 
 
 ## Contact information
