@@ -90,9 +90,17 @@ In the news: NRK Sápmi: [Dahkujierbmi sáhttá ovddidit sámegiela](https://www
 
 We have published two statements for the implementation of the EU AI Act (from [Sámi allaskuvla](https://www.regjeringen.no/no/dokumenter/3112327/id3112327/?uid=63d2f755-293e-44c7-a1b4-eb5915a19d2d) and [UiT Norges arktiske universitet](https://www.regjeringen.no/no/dokumenter/3112327/id3112327/?uid=7e15f708-dcf4-44a5-a39c-615867f892e3), and we are organizing a side-event at the 25th Permanent Forum on Indigenous Issues (UNPFII) about *AI opportunities for Indigenous health: realizing benefits and addressing risks*.
 
-## Outreach activities
+## Outreach & Community Engagement
 
+We believe it is vital that the Sámi community is at the forefront of the AI revolution. Our goal is to move beyond being passive consumers of technology; we want to empower Sámi people to become active creators who can harness the possibilities of AI while leading the conversation on Indigenous data ethics and digital sovereignty.
 
+To bridge the gap between research and the community, we are heavily involved in outreach and knowledge-sharing across Sápmi:
+- *AI Workshops for Schools*: We provide hands-on AI education for the next generation. We have successfully delivered workshops in Guovdageaidnu and Kåfjord, with an upcoming session planned for Alta.
+  - Interested in a workshop? We are always looking to connect with new schools. Please [contact us](mailto:larsab@samas.no) if you would like us to visit your classroom.
+- *Specialized Craft Training*: We have conducted dedicated workshops for duodji students at Sámi allaskuvla (Sámi University of Applied Sciences), exploring how AI can support traditional handcraft without compromising cultural integrity.
+- *Public Advocacy & Lectures*: Our lab has delivered dozens of presentations at international conferences and meetings of relevant Indigenous organizations. We also frequently give popular science lectures to make AI concepts accessible to the general public.
+
+Through these activities, we ensure that the development of AI remains a transparent, community-driven process that respects and reflects Sámi values.
 
 ## People
 
