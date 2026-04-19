@@ -21,6 +21,10 @@ The Sámi AI Lab at the Sámi University of Applied Sciences aims to establish S
 ## Our core focus is delivering AI solutions to secure health equity and develop Sámi culture and languages
 
 ### Health Equity
-Indigenous communities lack culturally-adapted health tools (e.g., clinical assessments).
-- *Solution*: Urgent development of cognitive and mental health assessments normed for Sámi speakers (especially children/elderly).
-- *Impact*: Guarantees equitable diagnosis and treatment, closing a "none to state-of-the-art" service gap.
+*The Problem.* Indigenous communities currently lack culturally and linguistically adapted health tools. This absence of normed clinical assessments creates a severe diagnostic barrier, particularly for Sámi children and elders who may be underserved by majority-language healthcare systems.
+
+*Our Solution.* We are establishing a robust methodology for norming cognitive and mental health tests in low-resource languages like Northern Sámi. In tandem, we are developing AI-driven solutions that enable non-Sámi-speaking clinicians to administer these assessments accurately and ethically.
+
+*Impact.* Guarantees equitable access to diagnosis and treatment for the Sámi population, effectively closing the "none-to-state-of-the-art" service gap in Indigenous healthcare.
+
+*Concrete Outcomes.* This research is currently being spearheaded through an ongoing postdoctoral project. While the work is in its developmental phase, the anticipated outcomes include a validated suite of Sámi-specific cognitive assessment tools and a functional AI-assisted platform for clinical administration.
