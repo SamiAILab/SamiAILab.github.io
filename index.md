@@ -58,17 +58,17 @@ In the news: Ávvir: [Juo, dat lea dehálaš Sápmái](https://www.avvir.no/juo-
 * Sámi Tabletop RPG: A culturally rooted role-playing game documented in peer-reviewed research. This work is published in ACM CHI Play 25: [Storycrafting With Constraints: Sámi Storytelling and Generative AI Workflows](https://dl.acm.org/doi/full/10.1145/3744736.3749342). We also describe the work in this [video](https://dl.acm.org/doi/suppl/10.1145/3744736.3749342/suppl_file/10.1145_3744736.3749342-video.mp4). We have also presented the work at NordiCHI '24 workshop, and as a poster at UNESCO LT4All 2025.
 * Presentation: "Bridging Sámi traditional knowledge and artificial intelligence" at WIPCE 2025.
 
-In the news: NRK Sápmi: [Aalkoeåålmegidie birrie DJ-evtiedimmiem stuvredh](https://www.nrk.no/sapmi/aalkoeaalmegidie-birrie-dj-evtiedimmiem-stuvredh-1.17660246) and [Ber urfolk ta styring i KI-utviklingen](https://www.nrk.no/sapmi/ber-urfolk-ta-styring-i-ki-utviklingen-1.17659108), Anaráš aavis [Lars Ailo Bongo lii vuáittám tahojiermi maaŋgâ­hámásâš­vuođâ palhâšume Taažâst](https://www.anarasaavis.fi/2025/06/12/lars-ailo-bongo-lii-vuaittam-tahojiermi-maangahamasasvuoda-palhasume-taazast/), NRK [Dette mener KI er samisk](https://www.nrk.no/norge/dette-mener-ki-er-samisk-1.16761140).
+In the news: NRK Sápmi: [Aalkoeåålmegidie birrie DJ-evtiedimmiem stuvredh](https://www.nrk.no/sapmi/aalkoeaalmegidie-birrie-dj-evtiedimmiem-stuvredh-1.17660246) and [Ber urfolk ta styring i KI-utviklingen](https://www.nrk.no/sapmi/ber-urfolk-ta-styring-i-ki-utviklingen-1.17659108), Anaráš aavis: [Lars Ailo Bongo lii vuáittám tahojiermi maaŋgâ­hámásâš­vuođâ palhâšume Taažâst](https://www.anarasaavis.fi/2025/06/12/lars-ailo-bongo-lii-vuaittam-tahojiermi-maangahamasasvuoda-palhasume-taazast/), NRK: [Dette mener KI er samisk](https://www.nrk.no/norge/dette-mener-ki-er-samisk-1.16761140).
 
 ### Language Technology Evaluation
 
 *The Problem.* While Large Language Models (LLMs) are beginning to support (Northern) Sámi, the specialized benchmarks and tools required to evaluate their linguistic accuracy and cultural fidelity remain largely absent. Without these metrics, it is impossible to verify if AI outputs are linguistically correct or culturally appropriate.
 
-*Our Solution. * We are developing rigorous benchmarks and evaluation frameworks to measure the performance of LLMs and AI applications specifically regarding Sámi language, culture, and traditional knowledge. This technical infrastructure allows for the objective assessment of AI models before they are deployed in community-facing roles.
+*Our Solution.* We are developing rigorous benchmarks and evaluation frameworks to measure the performance of LLMs and AI applications specifically regarding Sámi language, culture, and traditional knowledge. This technical infrastructure allows for the objective assessment of AI models before they are deployed in community-facing roles.
 
-*Impact.*  Ensures that Sámi AI services reach the same quality standards as those for major global languages. This facilitates the safe and effective integration of AI into high-stakes sectors—such as healthcare and education—where accuracy and cultural safety are non-negotiable.
+*Impact.* Ensures that Sámi AI services reach the same quality standards as those for major global languages. This facilitates the safe and effective integration of AI into high-stakes sectors—such as healthcare and education—where accuracy and cultural safety are non-negotiable.
 
-*Concrete Outcomes.  This research is currently being advanced through an ongoing Master’s project. While the benchmark is in its developmental phase, our current efforts include:
+*Concrete Outcomes.* This research is currently being advanced through an ongoing Master’s project. While the benchmark is in its developmental phase, our current efforts include:
 - Sámi Understanding Benchmark: Development of a comprehensive evaluation set for testing language and cultural nuance in LLMs.
 - [WMT’26 Collaboration](https://www2.statmt.org/wmt26/index.html): Partnering with the [TartuNLP](https://nlp.cs.ut.ee/) research group to include Northern Sámi in the WMT’26 (Conference on Machine Translation) competition, promoting international research and higher standards for Sámi machine translation.
 
@@ -104,11 +104,11 @@ Sámi AI Lab members:
 10. Kevin Mathias Bergan (Creative industries; Master student, UiT)
 
 Collaborators:
-1. Brita Elvevåg (UiT)
-2. Benjamin Ricaud (UiT)
-3. Sandra Just (UiT)
-4. Ánde Somby (UiT)
-5. Outi Laiti (University of Helsinki)
+1. Brita Elvevåg (UiT, Health equity)
+2. Benjamin Ricaud (UiT, Language Technology Evaluation)
+3. Sandra Just (UiT, Health equity)
+4. Ánde Somby (UiT, Creative Industries)
+5. Outi Laiti (University of Helsinki, Creative Industries)
 
 
 ## Contact information
