@@ -97,4 +97,10 @@ We have published two statements for the implementation of the EU AI Act (from [
 9. Ragnhild Abel Grape (Language Technology Evaluation; Master student, UiT)
 10. Kevin Mathias Bergan (Creative industries; Master student, UiT)
 
+## Contact information
 
+Lars Ailo Bongo: larsab@samas.no 
+
+Sámi allaskuvla,
+Hánnoluohkká 45,
+NO-9520 Guovdageaidnu
