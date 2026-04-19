@@ -43,4 +43,18 @@ Try the service: [Ábo Web Page](https://samiailab.samas.no/abo/)
 
 In the news: Ávvir: [Juo, dat lea dehálaš Sápmái](https://www.avvir.no/juo-dat-lea-dehalas-sapmai/) and Ságat: [Gjør det enklere å delta i samtalen](https://www.sagat.no/gjor-det-enklere-a-delta-i-samtalen/19.56598).
 
+## Creative Industries
+
+*The Problem.* Sámi cultural heritage faces significant challenges in intergenerational transmission and accurate digital representation. Standard creative tools often lack the nuance required to represent traditional knowledge and duodji (Sámi handcraft), leading to cultural dilution or invisibility in modern media.
+
+*Our Solution.* We are developing specialized Generative AI tools and creative workflows designed to digitally encode and accurately represent Sámi duodji and traditional knowledge. This includes training models that respect the specific aesthetics and cultural protocols of Sámi craftsmanship.
+
+*Impact.* Supports the preservation of intricate duodji techniques and facilitates cultural identity reclamation. By embedding Sámi heritage into modern AI workflows, we increase Sámi visibility in popular culture and empower creators to build within their own cultural context.
+
+*Concrete Outcomes.* This work is being actively advanced through ongoing Master’s and PhD research projects, with the following current outputs:
+- [Huggingface Repository](https://huggingface.co/Sami-AI-Lab): Open-access datasets and trained LoRA models designed for generating culturally accurate Sámi imagery.
+* Sámi Tabletop RPG: A culturally rooted role-playing game documented in peer-reviewed research. This work is published in ACM CHI Play 25: [Storycrafting With Constraints: Sámi Storytelling and Generative AI Workflows](https://dl.acm.org/doi/full/10.1145/3744736.3749342). We also describe the work in this [video](https://dl.acm.org/doi/suppl/10.1145/3744736.3749342/suppl_file/10.1145_3744736.3749342-video.mp4). We have also presented the work at NordiCHI '24 workshop, and as a poster at UNESCO LT4All 2025.
+* We presented our on "Bridging Sámi traditional knowledge and artificial intelligence" at WIPCE 2025.
+
+
 
