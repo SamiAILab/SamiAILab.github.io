@@ -29,7 +29,7 @@ The Sámi AI Lab at the Sámi University of Applied Sciences aims to establish S
 
 *Concrete Outcomes.* This research is currently being spearheaded through an ongoing postdoctoral project. While the work is in its developmental phase, the anticipated outcomes include a validated suite of Sámi-specific cognitive assessment tools and a functional AI-assisted platform for clinical administration.
 
-## Language and Educations
+### Language and Educations
 
 *The Problem.* Sámi speakers frequently encounter digital and social barriers that prevent them from using their native language freely. This often leads to "language compromise"—the forced shift to a majority language—which hinders natural communication, slows down learners, and erodes cultural preservation.
 
@@ -43,7 +43,7 @@ Try the service: [Ábo Web Page](https://samiailab.samas.no/abo/)
 
 In the news: Ávvir: [Juo, dat lea dehálaš Sápmái](https://www.avvir.no/juo-dat-lea-dehalas-sapmai/), abd Ságat: [Gjør det enklere å delta i samtalen](https://www.sagat.no/gjor-det-enklere-a-delta-i-samtalen/19.56598).
 
-## Creative Industries
+### Creative Industries
 
 *The Problem.* Sámi cultural heritage faces significant challenges in intergenerational transmission and accurate digital representation. Standard creative tools often lack the nuance required to represent traditional knowledge and duodji (Sámi handcraft), leading to cultural dilution or invisibility in modern media.
 
@@ -56,9 +56,9 @@ In the news: Ávvir: [Juo, dat lea dehálaš Sápmái](https://www.avvir.no/juo-
 * Sámi Tabletop RPG: A culturally rooted role-playing game documented in peer-reviewed research. This work is published in ACM CHI Play 25: [Storycrafting With Constraints: Sámi Storytelling and Generative AI Workflows](https://dl.acm.org/doi/full/10.1145/3744736.3749342). We also describe the work in this [video](https://dl.acm.org/doi/suppl/10.1145/3744736.3749342/suppl_file/10.1145_3744736.3749342-video.mp4). We have also presented the work at NordiCHI '24 workshop, and as a poster at UNESCO LT4All 2025.
 * Presentation: "Bridging Sámi traditional knowledge and artificial intelligence" at WIPCE 2025.
 
-In the news: NRK Sápmi: [Aalkoeåålmegidie birrie DJ-evtiedimmiem stuvredh](https://www.nrk.no/sapmi/aalkoeaalmegidie-birrie-dj-evtiedimmiem-stuvredh-1.17660246) and [Ber urfolk ta styring i KI-utviklingen](https://www.nrk.no/sapmi/ber-urfolk-ta-styring-i-ki-utviklingen-1.17659108), Anaráš aavis [Lars Ailo Bongo lii vuáittám tahojiermi maaŋgâ­hámásâš­vuođâ palhâšume Taažâst](https://www.anarasaavis.fi/2025/06/12/lars-ailo-bongo-lii-vuaittam-tahojiermi-maangahamasasvuoda-palhasume-taazast/), NRK [Dette mener KI er samisk](https://www.nrk.no/norge/dette-mener-ki-er-samisk-1.16761140)
+In the news: NRK Sápmi: [Aalkoeåålmegidie birrie DJ-evtiedimmiem stuvredh](https://www.nrk.no/sapmi/aalkoeaalmegidie-birrie-dj-evtiedimmiem-stuvredh-1.17660246) and [Ber urfolk ta styring i KI-utviklingen](https://www.nrk.no/sapmi/ber-urfolk-ta-styring-i-ki-utviklingen-1.17659108), Anaráš aavis [Lars Ailo Bongo lii vuáittám tahojiermi maaŋgâ­hámásâš­vuođâ palhâšume Taažâst](https://www.anarasaavis.fi/2025/06/12/lars-ailo-bongo-lii-vuaittam-tahojiermi-maangahamasasvuoda-palhasume-taazast/), NRK [Dette mener KI er samisk](https://www.nrk.no/norge/dette-mener-ki-er-samisk-1.16761140).
 
-## Language Technology Evaluation
+### Language Technology Evaluation
 
 *The Problem.* While Large Language Models (LLMs) are beginning to support (Northern) Sámi, the specialized benchmarks and tools required to evaluate their linguistic accuracy and cultural fidelity remain largely absent. Without these metrics, it is impossible to verify if AI outputs are linguistically correct or culturally appropriate.
 
@@ -70,4 +70,4 @@ In the news: NRK Sápmi: [Aalkoeåålmegidie birrie DJ-evtiedimmiem stuvredh](ht
 - Sámi Understanding Benchmark: Development of a comprehensive evaluation set for testing language and cultural nuance in LLMs.
 - [WMT’26 Collaboration](https://www2.statmt.org/wmt26/index.html): Partnering with the [TartuNLP](https://nlp.cs.ut.ee/) research group to include Northern Sámi in the WMT’26 (Conference on Machine Translation) competition, promoting international research and higher standards for Sámi machine translation.
 
-In the news: NRK Sápmi: [Dahkujierbmi sáhttá ovddidit sámegiela](https://www.nrk.no/sapmi/google-dahkujierbmi-gemini-haldda_a-davvisamegiela-1.17752486),
+In the news: NRK Sápmi: [Dahkujierbmi sáhttá ovddidit sámegiela](https://www.nrk.no/sapmi/google-dahkujierbmi-gemini-haldda_a-davvisamegiela-1.17752486).
