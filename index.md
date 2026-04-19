@@ -76,7 +76,7 @@ In the news: NRK: [Dette mener KI er samisk](https://www.nrk.no/norge/dette-mene
 - Sámi Understanding Benchmark: Development of a comprehensive evaluation set for testing language and cultural nuance in LLMs.
 - [WMT’26 Collaboration](https://www2.statmt.org/wmt26/index.html): Partnering with the [TartuNLP](https://nlp.cs.ut.ee/) research group to include Northern Sámi in the WMT’26 (Conference on Machine Translation) competition, promoting international research and higher standards for Sámi machine translation.
 
-In the news: NRK Sápmi: [Dahkujierbmi sáhttá ovddidit sámegiela](https://www.nrk.no/sapmi/google-dahkujierbmi-gemini-haldda_a-davvisamegiela-1.17752486).
+In the news: NRK Sápmi: [Dahkujierbmi sáhttá ovddidit sámegiela](https://www.nrk.no/sapmi/google-dahkujierbmi-gemini-haldda_a-davvisamegiela-1.17752486), SVT: [Experten: Samisk AI kan bli verklighet inom fem till tio år](https://www.svt.se/nyheter/sapmi/experten-samisk-ai-kan-bli-verklighet-inom-fem-till-tio-ar).
 
 ## Sámi-led governance our community roots give us the authority to shape AI regulations and standards
 
