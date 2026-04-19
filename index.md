@@ -28,3 +28,19 @@ The Sámi AI Lab at the Sámi University of Applied Sciences aims to establish S
 *Impact.* Guarantees equitable access to diagnosis and treatment for the Sámi population, effectively closing the "none-to-state-of-the-art" service gap in Indigenous healthcare.
 
 *Concrete Outcomes.* This research is currently being spearheaded through an ongoing postdoctoral project. While the work is in its developmental phase, the anticipated outcomes include a validated suite of Sámi-specific cognitive assessment tools and a functional AI-assisted platform for clinical administration.
+
+## Language and Educations
+
+*The Problem.* Sámi speakers frequently encounter digital and social barriers that prevent them from using their native language freely. This often leads to "language compromise"—the forced shift to a majority language—which hinders natural communication, slows down learners, and erodes cultural preservation.
+
+*Our Solution.* We developed the Ábo Web Service, an AI-enabled speech-to-text tool designed to bridge the communication gap. The service allows users to speak naturally in Sámi, utilizing advanced AI to transcribe and translate their speech in real-time, removing the technical friction of language switching.
+
+*Impact.* Gives Sámi speakers the autonomy to use their language without compromise in digital spaces. By making the language more visible and easier to document, Ábo supports both fluent speakers in professional settings and learners seeking to build confidence.
+
+*Concrete Outcomes.* The project has resulted in a functional, public-facing web platform and has garnered significant attention within Sámi media for its role in modernizing language use.
+
+Try the service: [Ábo Web Page](https://samiailab.samas.no/abo/)
+
+In the news: Ávvir: [Juo, dat lea dehálaš Sápmái](https://www.avvir.no/juo-dat-lea-dehalas-sapmai/) and Ságat: [Gjør det enklere å delta i samtalen](https://www.sagat.no/gjor-det-enklere-a-delta-i-samtalen/19.56598).
+
+
