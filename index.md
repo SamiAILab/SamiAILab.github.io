@@ -47,6 +47,8 @@ Try the service: [Ábo Web Page](https://samiailab.samas.no/abo/)
 
 In the news: Ávvir: [Juo, dat lea dehálaš Sápmái](https://www.avvir.no/juo-dat-lea-dehalas-sapmai/), abd Ságat: [Gjør det enklere å delta i samtalen](https://www.sagat.no/gjor-det-enklere-a-delta-i-samtalen/19.56598).
 
+![Screenshot of the Ábo transcription and translation service](/assets/images/abo-screenshot.png "Ábo")
+
 ### Creative Industries
 
 *The Problem.* Sámi cultural heritage faces significant challenges in intergenerational transmission and accurate digital representation. Standard creative tools often lack the nuance required to represent traditional knowledge and duodji (Sámi handcraft), leading to cultural dilution or invisibility in modern media.
