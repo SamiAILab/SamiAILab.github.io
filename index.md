@@ -62,7 +62,7 @@ In the news: Ávvir: [Juo, dat lea dehálaš Sápmái](https://www.avvir.no/juo-
 * Sámi Tabletop RPG: A culturally rooted role-playing game documented in peer-reviewed research. This work is published in ACM CHI Play 25: [Storycrafting With Constraints: Sámi Storytelling and Generative AI Workflows](https://dl.acm.org/doi/full/10.1145/3744736.3749342). We also describe the work in this [video](https://dl.acm.org/doi/suppl/10.1145/3744736.3749342/suppl_file/10.1145_3744736.3749342-video.mp4). We have also presented the work at NordiCHI '24 workshop, and as a poster at UNESCO LT4All 2025.
 * Presentation: "Bridging Sámi traditional knowledge and artificial intelligence" at WIPCE 2025.
 
-In the news: NRK Sápmi: [Aalkoeåålmegidie birrie DJ-evtiedimmiem stuvredh](https://www.nrk.no/sapmi/aalkoeaalmegidie-birrie-dj-evtiedimmiem-stuvredh-1.17660246) and [Ber urfolk ta styring i KI-utviklingen](https://www.nrk.no/sapmi/ber-urfolk-ta-styring-i-ki-utviklingen-1.17659108), Anaráš aavis: [Lars Ailo Bongo lii vuáittám tahojiermi maaŋgâ­hámásâš­vuođâ palhâšume Taažâst](https://www.anarasaavis.fi/2025/06/12/lars-ailo-bongo-lii-vuaittam-tahojiermi-maangahamasasvuoda-palhasume-taazast/), NRK: [Dette mener KI er samisk](https://www.nrk.no/norge/dette-mener-ki-er-samisk-1.16761140).
+In the news: Anaráš aavis: NRK: [Dette mener KI er samisk](https://www.nrk.no/norge/dette-mener-ki-er-samisk-1.16761140).
 
 ### Language Technology Evaluation
 
@@ -89,6 +89,8 @@ In the news: NRK Sápmi: [Dahkujierbmi sáhttá ovddidit sámegiela](https://www
 - Policy Participation: We lead the effort to incorporate Indigenous ethical norms into national and international AI regulation, securing the right to equitable and culturally adapted AI services.
 
 We have published two statements for the implementation of the EU AI Act (from [Sámi allaskuvla](https://www.regjeringen.no/no/dokumenter/3112327/id3112327/?uid=63d2f755-293e-44c7-a1b4-eb5915a19d2d) and [UiT Norges arktiske universitet](https://www.regjeringen.no/no/dokumenter/3112327/id3112327/?uid=7e15f708-dcf4-44a5-a39c-615867f892e3), and we are organizing a side-event at the 25th Permanent Forum on Indigenous Issues (UNPFII) about *AI opportunities for Indigenous health: realizing benefits and addressing risks*.
+
+In the news: NRK Sápmi: [Aalkoeåålmegidie birrie DJ-evtiedimmiem stuvredh](https://www.nrk.no/sapmi/aalkoeaalmegidie-birrie-dj-evtiedimmiem-stuvredh-1.17660246) and [Ber urfolk ta styring i KI-utviklingen](https://www.nrk.no/sapmi/ber-urfolk-ta-styring-i-ki-utviklingen-1.17659108), [Lars Ailo Bongo lii vuáittám tahojiermi maaŋgâ­hámásâš­vuođâ palhâšume Taažâst](https://www.anarasaavis.fi/2025/06/12/lars-ailo-bongo-lii-vuaittam-tahojiermi-maangahamasasvuoda-palhasume-taazast/).
 
 ## Outreach & Community Engagement
 
