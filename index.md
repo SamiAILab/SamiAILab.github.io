@@ -75,12 +75,12 @@ In the news: NRK Sápmi: [Dahkujierbmi sáhttá ovddidit sámegiela](https://www
 ## Sámi-led governance our community roots give us the authority to shape AI regulations and standards
 
 *Ethical Standards.*  The Sámi AI Lab is hosted by the Sámi University of Applied Sciences, an Indigenous-led institution, embedding us directly within the Sámi community. This foundation ensures*:
-- *Value Alignment: As AI becomes a core technology for the Sámi, all solutions we develop are strictly aligned with Sámi ethical norms and values.
-- *Bias Prevention*: We actively prevent AI from encoding systemic bias or misrepresenting Sámi culture, a critical risk when non-Indigenous models are used.
+- Value Alignment: As AI becomes a core technology for the Sámi, all solutions we develop are strictly aligned with Sámi ethical norms and values.
+- Bias Prevention: We actively prevent AI from encoding systemic bias or misrepresenting Sámi culture, a critical risk when non-Indigenous models are used.
 
 *Global Leadership.* We are defining the standard for ethical, applied Indigenous AI:
-Inclusion Mandate: Our most important goal is to ensure Indigenous Peoples are fully included in the design, regulation, and deployment of future AI solutions.
-Policy Participation: We lead the effort to incorporate Indigenous ethical norms into national and international AI regulation, securing the right to equitable and culturally adapted AI services.
+- Inclusion Mandate: Our most important goal is to ensure Indigenous Peoples are fully included in the design, regulation, and deployment of future AI solutions.
+- Policy Participation: We lead the effort to incorporate Indigenous ethical norms into national and international AI regulation, securing the right to equitable and culturally adapted AI services.
 
 We have published two statements for the implementation of the EU AI Act (from [Sámi allaskuvla](https://www.regjeringen.no/no/dokumenter/3112327/id3112327/?uid=63d2f755-293e-44c7-a1b4-eb5915a19d2d) and [UiT Norges arktiske universitet](https://www.regjeringen.no/no/dokumenter/3112327/id3112327/?uid=7e15f708-dcf4-44a5-a39c-615867f892e3), and we are organizing a side-event at the 25th Permanent Forum on Indigenous Issues (UNPFII) on [AI opportunities for Indigenous health: realizing benefits and addressing risks ]().
 
