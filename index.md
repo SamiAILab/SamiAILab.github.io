@@ -54,7 +54,7 @@ In the news: Ávvir: [Juo, dat lea dehálaš Sápmái](https://www.avvir.no/juo-
 *Concrete Outcomes.* This work is being actively advanced through ongoing Master’s and PhD research projects, with the following current outputs:
 - [Huggingface Repository](https://huggingface.co/Sami-AI-Lab): Open-access datasets and trained LoRA models designed for generating culturally accurate Sámi imagery.
 * Sámi Tabletop RPG: A culturally rooted role-playing game documented in peer-reviewed research. This work is published in ACM CHI Play 25: [Storycrafting With Constraints: Sámi Storytelling and Generative AI Workflows](https://dl.acm.org/doi/full/10.1145/3744736.3749342). We also describe the work in this [video](https://dl.acm.org/doi/suppl/10.1145/3744736.3749342/suppl_file/10.1145_3744736.3749342-video.mp4). We have also presented the work at NordiCHI '24 workshop, and as a poster at UNESCO LT4All 2025.
-* Presentation about "Bridging Sámi traditional knowledge and artificial intelligence" at WIPCE 2025.
+* Presentation: "Bridging Sámi traditional knowledge and artificial intelligence" at WIPCE 2025.
 
 
 
