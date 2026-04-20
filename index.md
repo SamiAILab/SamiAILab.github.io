@@ -11,7 +11,7 @@ header:
 
 Sámi AI Lab is a research group located at [Sámi University of Applied Sciences](https://samas.no/) in Guovdageiadnu, Norway and [UiT The Arctic University of Norway](https://uit.no/startsida) located in Tromsø, Norway. We investigate possibilities for AI to improve the Indigenous Sámi experience through artificial intelligence technologies.
 
-## It is urgent to ensure that Indigenous Peoples are not left behind by new AI apps and services
+## It is urgent to ensure that Indigenous Peoples are not left behind by new AI apps and services.
 
 ### Problem
 The widespread integration of new AI apps and services into critical public sectors like healthcare and education is inevitable. For these applications to be effective and equitable, language and culture are paramount. However, existing non-AI tools consistently fail to support Sámi and Indigenous Peoples, resulting in a systemic service gap, such as lower quality healthcare and greater drop-out in Indigenous language education. While new AI tools offer the unique opportunity to finally build culturally and linguistically adapted services where none currently exist, this possibility is conditional. It requires deliberate action to include Indigenous data and expertise in the foundation: from developing the core models and building the applications to rigorously evaluating the services.
@@ -21,7 +21,7 @@ The Sámi AI Lab aims to establish Sámi self-determination in the digital age. 
 
 ![Sámi AI Lab activities and collaborations](/assets/images/sami-ai-lab-overview.png "Sámi AI Lab overview figure")
 
-## Our core focus is delivering AI solutions to secure health equity and develop Sámi culture and languages
+## Our core focus is delivering AI solutions to secure health equity and develop Sámi culture and languages.
 
 ### Health Equity
 *The Problem.* Indigenous communities currently lack culturally and linguistically adapted health tools. This absence of normed clinical assessments creates a severe diagnostic barrier, particularly for Sámi children and elders who may be underserved by majority-language healthcare systems.
@@ -113,33 +113,3 @@ To bridge the gap between research and the community, we are heavily involved in
 - *Public Advocacy & Lectures*: Our lab has delivered dozens of presentations at international conferences and meetings of relevant Indigenous organizations. We also frequently give popular science lectures to make AI concepts accessible to the general public.
 
 Through these activities, we ensure that the development of AI remains a transparent, community-driven process that respects and reflects Sámi values.
-
-## People
-
-Sámi AI Lab members:
-1. Professor Lars Ailo Bongo (PI; Sámi allaskuvla and UiT)
-2. Assistant Professor Samuel Valkeapää (Creative industries lead; Sámi allaskuvla)
-4. Associate Professor Kajsa Møllersen (Language and education lead; Sámi allaskuvla)
-5. Anne-Torill Nordsletta (researcher)
-6. Dr. Nikita Shvestov (Health equity; postdoc, UiT)
-7. Ernie Roby-Tomić (Creative industries; PhD student, UiT)
-8. Maarit Magga (Language and education; Developer, Sámi allaskuvla)
-9. Ragnhild Abel Grape (Language Technology Evaluation; Master student, UiT)
-10. Kevin Mathias Bergan (Creative industries; Master student, UiT)
-
-Collaborators:
-1. Brita Elvevåg (UiT, Health equity)
-2. Benjamin Ricaud (UiT, Language Technology Evaluation)
-3. Sandra Just (UiT, Health equity)
-4. Ánde Somby (UiT, Creative Industries)
-5. Outi Laiti (University of Helsinki, Creative Industries)
-
-
-## Contact information
-
-Lars Ailo Bongo: larsab@samas.no 
-
-Sámi allaskuvla,  
-Hánnoluohkká 45,  
-NO-9520 Guovdageaidnu,  
-Norway
