@@ -51,13 +51,10 @@ In the news: Ávvir: [Juo, dat lea dehálaš Sápmái](https://www.avvir.no/juo-
 
 ### Creative Industries
 
-<div class="image-row">
-  <img src="/assets/images/50ep_010ms_100cs_40stps.png" alt="Pic 1">
-  <img src="/assets/images/50ep_030ms_100cs_40stps.png" alt="Pic 2">
-  <img src="/assets/images/50ep_050ms_100cs_40stps.png" alt="Pic 3">
-  <img src="/assets/images/70ep_050ms_100cs_40stps.png" alt="Pic 4">
-</div>
+
 *The Problem.* Sámi cultural heritage faces significant challenges in intergenerational transmission and accurate digital representation. Standard creative tools often lack the nuance required to represent traditional knowledge and duodji (Sámi handcraft), leading to cultural dilution or invisibility in modern media.
+
+![Juggernaut XL generative images increasingly influenced by our fine-tune LoRA model training depicting Ullsfjord gákti](/assets/images/gakti_illustration.png "Juggernaut XL generative images increasingly influenced by our fine-tune LoRA model training depicting Ullsfjord gákti")
 
 *Our Solution.* We are developing specialized Generative AI tools and creative workflows designed to digitally encode and accurately represent Sámi duodji and traditional knowledge. This includes training models that respect the specific aesthetics and cultural protocols of Sámi craftsmanship.
 
@@ -67,6 +64,7 @@ In the news: Ávvir: [Juo, dat lea dehálaš Sápmái](https://www.avvir.no/juo-
 - [Huggingface Repository](https://huggingface.co/Sami-AI-Lab): Open-access datasets and trained LoRA models designed for generating culturally accurate Sámi imagery.
 * Sámi Tabletop RPG: A culturally rooted role-playing game documented in peer-reviewed research. This work is published in ACM CHI Play 25: [Storycrafting With Constraints: Sámi Storytelling and Generative AI Workflows](https://dl.acm.org/doi/full/10.1145/3744736.3749342). We also describe the work in this [video](https://dl.acm.org/doi/suppl/10.1145/3744736.3749342/suppl_file/10.1145_3744736.3749342-video.mp4). We have also presented the work at NordiCHI '24 workshop, and as a poster at UNESCO LT4All 2025.
 * Presentation: "Bridging Sámi traditional knowledge and artificial intelligence" at WIPCE 2025.
+![Sámi TTRPG development materials](assets/images/2026-04-20_13h35_05.png "Pages from the Sámi TTRPG depicting high-fantasy portrayals of characters inspired by Sámi folklore and designs")
 
 In the news: NRK: [Dette mener KI er samisk](https://www.nrk.no/norge/dette-mener-ki-er-samisk-1.16761140), Anaráš aavis:[Kielâteknologia puohháid: LT4ALL-konferens Pariisist](https://www.anarasaavis.fi/2025/03/03/kielateknologia-puohhaid-lt4all-konferens-pariisist/).
 
@@ -101,6 +99,8 @@ In the news: NRK Sápmi: [Aalkoeåålmegidie birrie DJ-evtiedimmiem stuvredh](ht
 ## Outreach & Community Engagement
 
 We believe it is vital that the Sámi community is at the forefront of the AI revolution. Our goal is to move beyond being passive consumers of technology; we want to empower Sámi people to become active creators who can harness the possibilities of AI while leading the conversation on Indigenous data ethics and digital sovereignty.
+
+![Community workshop at the Culture School of Olderdalen with Kåfjord Meta](assets/images/Picture10.jpg "Community workshop at the Culture School of Olderdalen in the Kåfjord Meta gaming and technology room.")
 
 To bridge the gap between research and the community, we are heavily involved in outreach and knowledge-sharing across Sápmi:
 - *AI Workshops for Schools*: We provide hands-on AI education for the next generation. We have successfully delivered workshops in Guovdageaidnu and Kåfjord, with an upcoming session planned for Alta.
