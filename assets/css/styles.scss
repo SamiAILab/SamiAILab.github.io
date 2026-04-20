@@ -1,0 +1,12 @@
+@import "minimal-mistakes";
+
+/*style for column of images*/
+.image-row {
+  display: flex;
+  gap: 12px;
+}
+
+.image-row img {
+  width: 30%;
+  height: auto;
+}
