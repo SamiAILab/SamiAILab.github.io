@@ -50,7 +50,13 @@ In the news: Ávvir: [Juo, dat lea dehálaš Sápmái](https://www.avvir.no/juo-
 ![Screenshot of the Ábo transcription and translation service](/assets/images/abo-screenshot.png "Ábo")
 
 ### Creative Industries
-![Improving visual models through fine-tune training 1](/assets/images/50ep_010ms_100cs_40stps.png "Fine-tune model influence")
+
+<div class="image-row">
+  <img src="/assets/images/50ep_010ms_100cs_40stps.png" alt="Pic 1">
+  <img src="/assets/images/50ep_030ms_100cs_40stps.png" alt="Pic 2">
+  <img src="/assets/images/50ep_050ms_100cs_40stps.png" alt="Pic 3">
+  <img src="/assets/images/70ep_050ms_100cs_40stps.png" alt="Pic 4">
+</div>
 *The Problem.* Sámi cultural heritage faces significant challenges in intergenerational transmission and accurate digital representation. Standard creative tools often lack the nuance required to represent traditional knowledge and duodji (Sámi handcraft), leading to cultural dilution or invisibility in modern media.
 
 *Our Solution.* We are developing specialized Generative AI tools and creative workflows designed to digitally encode and accurately represent Sámi duodji and traditional knowledge. This includes training models that respect the specific aesthetics and cultural protocols of Sámi craftsmanship.
