@@ -8,7 +8,6 @@ header:
   overlay_color: "#e1bc48"
   image: "/assets/images/bg-pattern.png"
 ---
-/* Sámi AI Lab - this heading creates a lot of redundancy on the main page, but maybe we want to update the heading later */
 
 Sámi AI Lab is a research group located at [Sámi University of Applied Sciences](https://samas.no/) in Guovdageiadnu, Norway and [UiT The Arctic University of Norway](https://uit.no/startsida) located in Tromsø, Norway. We investigate possibilities for AI to improve the Indigenous Sámi experience through artificial intelligence technologies.
 
