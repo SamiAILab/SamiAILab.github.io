@@ -3,8 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-# Sámi AI Lab
-
 Sámi AI Lab is a research group located at [Sámi University of Applied Sciences](https://samas.no/) in Guovdageiadnu, Norway and [UiT The Arctic University of Norway](https://uit.no/startsida) located in Tromsø, Norway. We investigate possibilities for AI to improve the Indigenous Sámi experience through artificial intelligence technologies.
 
 ## People
