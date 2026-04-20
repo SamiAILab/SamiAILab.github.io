@@ -86,6 +86,14 @@ footer:
     #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
+      ## Contact information
+      label: "Contact : Lars Ailo Bongo"
+      url:: "larsab@samas.no"
+
+Sámi allaskuvla,  
+Hánnoluohkká 45,  
+NO-9520 Guovdageaidnu,  
+Norway
 
 defaults:
   # _posts
