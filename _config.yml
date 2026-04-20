@@ -46,6 +46,8 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+styles_css:
+  - /assets/css/main.scss
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
