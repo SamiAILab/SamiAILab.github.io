@@ -29,3 +29,8 @@ Collaborators:
 ## Contact information
 
 Lars Ailo Bongo: larsab@samas.no 
+
+Sámi allaskuvla,  
+Hánnoluohkká 45,  
+NO-9520 Guovdageaidnu,  
+Norway
