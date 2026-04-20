@@ -8,9 +8,10 @@ header:
   overlay_color: "#e1bc48"
   image: "/assets/images/bg-pattern.png"
 ---
-## It is urgent to ensure that Indigenous Peoples are not left behind by new AI apps and services.
 
 Sámi AI Lab is a research group located at [Sámi University of Applied Sciences](https://samas.no/) in Guovdageiadnu, Norway and [UiT The Arctic University of Norway](https://uit.no/startsida) located in Tromsø, Norway. We investigate possibilities for AI to improve the Indigenous Sámi experience through artificial intelligence technologies.
+
+## It is urgent to ensure that Indigenous Peoples are not left behind by new AI apps and services.
 
 ### Problem
 The widespread integration of new AI apps and services into critical public sectors like healthcare and education is inevitable. For these applications to be effective and equitable, language and culture are paramount. However, existing non-AI tools consistently fail to support Sámi and Indigenous Peoples, resulting in a systemic service gap, such as lower quality healthcare and greater drop-out in Indigenous language education. While new AI tools offer the unique opportunity to finally build culturally and linguistically adapted services where none currently exist, this possibility is conditional. It requires deliberate action to include Indigenous data and expertise in the foundation: from developing the core models and building the applications to rigorously evaluating the services.
