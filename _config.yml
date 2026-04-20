@@ -80,20 +80,17 @@ footer:
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       #url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "HuggingFace"
+      icon: "fas fa-robot"
+      url: "https://huggingface.co/Sami-AI-Lab"
     #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
       ## Contact information
-      label: "Contact : Lars Ailo Bongo"
-      url:: "larsab@samas.no"
+    - label: "Contact : Lars Ailo Bongo"
+      icon: "fas fa-envelope"
+      url: "mailto:larsab@samas.no"
 
-Sámi allaskuvla,  
-Hánnoluohkká 45,  
-NO-9520 Guovdageaidnu,  
-Norway
 
 defaults:
   # _posts
