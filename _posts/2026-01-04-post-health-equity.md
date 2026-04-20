@@ -1,3 +1,14 @@
+---
+title: "Post: Standard"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - readability
+  - standard
+---
+
 ### Health Equity
 *The Problem.* Indigenous communities currently lack culturally and linguistically adapted health tools. This absence of normed clinical assessments creates a severe diagnostic barrier, particularly for Sámi children and elders who may be underserved by majority-language healthcare systems.
 
