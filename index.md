@@ -64,7 +64,7 @@ In the news: Ávvir: [Juo, dat lea dehálaš Sápmái](https://www.avvir.no/juo-
 - [Huggingface Repository](https://huggingface.co/Sami-AI-Lab): Open-access datasets and trained LoRA models designed for generating culturally accurate Sámi imagery.
 * Sámi Tabletop RPG: A culturally rooted role-playing game documented in peer-reviewed research. This work is published in ACM CHI Play 25: [Storycrafting With Constraints: Sámi Storytelling and Generative AI Workflows](https://dl.acm.org/doi/full/10.1145/3744736.3749342). We also describe the work in this [video](https://dl.acm.org/doi/suppl/10.1145/3744736.3749342/suppl_file/10.1145_3744736.3749342-video.mp4). We have also presented the work at NordiCHI '24 workshop, and as a poster at UNESCO LT4All 2025.
 * Presentation: "Bridging Sámi traditional knowledge and artificial intelligence" at WIPCE 2025.
-![Sámi TTRPG development materials](assets/images/2026-04-20_13h35_05.png "Pages from the Sámi TTRPG depicting high-fantasy portrayals of characters inspired by Sámi folklore and designs")
+![Sámi Tabletop Roleplaying Game pages depicting rules, images, and text generated using cultural inputs from fine-tuned models. The layouts are made using Homebrewery, and thus have a similar appearance to pages in a Dungeons and Dragons roleplaying game rulebook.](assets/images/2026-04-20_13h35_05.png "Pages from the Sámi TTRPG depicting high-fantasy portrayals of characters inspired by Sámi folklore and designs"){: .align-center width="80%"}
 
 In the news: NRK: [Dette mener KI er samisk](https://www.nrk.no/norge/dette-mener-ki-er-samisk-1.16761140), Anaráš aavis:[Kielâteknologia puohháid: LT4ALL-konferens Pariisist](https://www.anarasaavis.fi/2025/03/03/kielateknologia-puohhaid-lt4all-konferens-pariisist/).
 
@@ -96,12 +96,14 @@ We have published two statements for the implementation of the EU AI Act (from [
 
 In the news: NRK Sápmi: [Aalkoeåålmegidie birrie DJ-evtiedimmiem stuvredh](https://www.nrk.no/sapmi/aalkoeaalmegidie-birrie-dj-evtiedimmiem-stuvredh-1.17660246) and [Ber urfolk ta styring i KI-utviklingen](https://www.nrk.no/sapmi/ber-urfolk-ta-styring-i-ki-utviklingen-1.17659108), Anaráš aavis: [Lars Ailo Bongo lii vuáittám tahojiermi maaŋgâ­hámásâš­vuođâ palhâšume Taažâst](https://www.anarasaavis.fi/2025/06/12/lars-ailo-bongo-lii-vuaittam-tahojiermi-maangahamasasvuoda-palhasume-taazast/).
 
+![A young student sitting at a laptop with a drawing program on the screen depicting a traditional Sámi dwelling, or lavvo, digitally drawn in a charcoal on paper-like aesthetic. The image was co-created by the student's drawing and assisted with fine-tuned generative AI models.](assets/images/thumbnail_IMG_9871.png "Workshops with youth in Guovdageiadnu using Sámi AI Lab creative generative drawing tools for storytelling."){: .align-center width="80%"}
+
 ## Outreach & Community Engagement
 
 We believe it is vital that the Sámi community is at the forefront of the AI revolution. Our goal is to move beyond being passive consumers of technology; we want to empower Sámi people to become active creators who can harness the possibilities of AI while leading the conversation on Indigenous data ethics and digital sovereignty.
 
-![A young student sitting at a laptop with a drawing program on the screen depicting a traditional Sámi dwelling, or lavvo, digitally drawn in a charcoal on paper-like aesthetic. The image was co-created by the student's drawing and assisted with fine-tuned generative AI models.](assets/images/thumbnail_IMG_9871.png "Workshops with youth in Guovdageiadnu using Sámi AI Lab creative generative drawing tools for storytelling."){: .align-center }
-![Photograph of a Sámi duodji, or handicraft, student sitting at a table with a 3D printer, a laptop, and a tv showing a 3D scanned model of a lavvo, or traditional Sámi dwelling. Outside through the window sits the actualy Sámi dwelling that was scanned and you can see the scan is very lifelike.](assets/images/2026-04-20_13h36_11.png "Workshops with duodji students at Sámi University of Applied Sciences located in Guovdageiadnu"){: .align-center }
+
+![Photograph of a Sámi duodji, or handicraft, student sitting at a table with a 3D printer, a laptop, and a tv showing a 3D scanned model of a lavvo, or traditional Sámi dwelling. Outside through the window sits the actualy Sámi dwelling that was scanned and you can see the scan is very lifelike.](assets/images/2026-04-20_13h36_11.png "Workshops with duodji students at Sámi University of Applied Sciences located in Guovdageiadnu"){: .align-center width="80%"}
 
 To bridge the gap between research and the community, we are heavily involved in outreach and knowledge-sharing across Sápmi:
 - *AI Workshops for Schools*: We provide hands-on AI education for the next generation. We have successfully delivered workshops in Guovdageaidnu and Kåfjord, with an upcoming session planned for Alta.
