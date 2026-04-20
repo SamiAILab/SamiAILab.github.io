@@ -80,14 +80,14 @@ footer:
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       #url: "https://twitter.com/"
-    - label: "HuggingFace"
+    - label: "Sámi AI Lab Models"
       icon: "fas fa-robot"
       url: "https://huggingface.co/Sami-AI-Lab"
     #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
       ## Contact information
-    - label: "Contact : Lars Ailo Bongo"
+    - label: "E-MAIL"
       icon: "fas fa-envelope"
       url: "mailto:larsab@samas.no"
 
