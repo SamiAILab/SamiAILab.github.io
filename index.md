@@ -67,7 +67,7 @@ In the news: Ávvir: [Juo, dat lea dehálaš Sápmái](https://www.avvir.no/juo-
 
 * Presentation: "Bridging Sámi traditional knowledge and artificial intelligence" at WIPCE 2025.
 
-* In the news: NRK: [Dette mener KI er samisk](https://www.nrk.no/norge/dette-mener-ki-er-samisk-1.16761140), Anaráš aavis:[Kielâteknologia puohháid: LT4ALL-konferens Pariisist](https://www.anarasaavis.fi/2025/03/03/kielateknologia-puohhaid-lt4all-konferens-pariisist/).
+In the news: NRK: [Dette mener KI er samisk](https://www.nrk.no/norge/dette-mener-ki-er-samisk-1.16761140), Anaráš aavis:[Kielâteknologia puohháid: LT4ALL-konferens Pariisist](https://www.anarasaavis.fi/2025/03/03/kielateknologia-puohhaid-lt4all-konferens-pariisist/).
 
 ### Language Technology Evaluation
 
