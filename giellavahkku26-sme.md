@@ -38,4 +38,4 @@ Jeg skriver denne eposten på nord-samisk fordi det nå er [Samisk språkuke]() 
 
 ## Liseansa
 
-PD
+Lars Ailo Bongo ja Kajsa Møllersen leaba čalan dan. Buot sisdoallu lea Public Domain, nu ahte ana dan masa halidat.
